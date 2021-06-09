@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLite Example</string>
+    <string name="enter_the_details">Enter the Details</string>
+    <string name="name">name</string>
+    <string name="contact">contact</string>
+    <string name="dob">Dob</string>
+    <string name="insert_new_data">insert new data</string>
+    <string name="update_data">update data</string>
+    <string name="delete_existing_data">Delete existing data</string>
+    <string name="view_all_data">view all data</string>
+</resources>
